@@ -2,3 +2,12 @@
 
 ## Инструкция
 Заменить оригинальный ui_slot_hud.xml на файл с репозитория в папке /gamedata/configs/ui/
+
+## Применять при ошибке
+```[error]Expression : xml_doc.NavigateToNode(path,index)
+[error]Function : CUIXmlInit::InitScrollView
+[error]File : ui\UIXmlInit.cpp
+[error]Line : 1155
+[error]Description : XML node not found
+[error]Argument 0 : companion_wnd
+[error]Argument 1 : ui\ui_slot_hud.xml```
