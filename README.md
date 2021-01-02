@@ -1,9 +1,9 @@
-Фикс ui_slot_hud.xml для Call Of Chernobyl 6.05
+## Фикс ui_slot_hud.xml для Call Of Chernobyl 6.05
 
-## Инструкция
+### Инструкция
 Заменить оригинальный ui_slot_hud.xml на файл с репозитория по пути /gamedata/configs/ui/
 
-## Применять при ошибке
+### Применять при ошибке
 ```
 [error]Expression : xml_doc.NavigateToNode(path,index)
 [error]Function : CUIXmlInit::InitScrollView
